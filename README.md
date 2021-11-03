@@ -2,9 +2,9 @@
 
 ## **Books & Tutorials C#**
 <details> 
-###DDD Patterns
+
 * [DDD patters and architecture](https://)
-###Patterns
+
 * [Unit testing books and video tutorial](https://)
 * [SOLID](https://)
 
@@ -12,10 +12,10 @@
 
 ## **Books & Tutorials Kubernetes**
 <details> 
-###Patterns
+
 * [Kubernetes patterns - CPD](https://www.wallarm.com/what/top-kubernetes-design-patterns)
   
-###Courses
+
 * [Complete Kubernetes - CPD](https://cognizant.udemy.com/course/learn-devops-the-complete-kubernetes-course/)
 
 </details>
