@@ -1,6 +1,25 @@
 # CPS goals
 
-## **Books & Tutorials C#**
+
+
+## **Microservice Design Patterns and Principles** 
+
+<details> 
+
+1. Database per Microservice
+2. Event Sourcing
+3. CQRS
+4. Saga
+5. BFF
+6. API Gateway
+7. Strangler
+8. Circuit Breaker
+9. Externalized Configuration
+10. Consumer-Driven Contract Tracing
+
+</details>
+
+## **Books & Tutorials C# - November**
 <details> 
 
 * [DDD patters and architecture](https://)
