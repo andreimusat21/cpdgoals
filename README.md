@@ -46,6 +46,8 @@
 * [AZ-204: Developing Solutions for Microsoft Azure CPD](https://docs.microsoft.com/en-us/learn/certifications/exams/az-204)
 
 </details>
+
+
 ## *CLOUD DESIGN PATTERNS*
 
 <details> 
