@@ -42,6 +42,7 @@
   
 ## **Azure certifications**
 <details> 
+  
 * [AZ-900: Microsoft Azure Fundamentals CPD](https://docs.microsoft.com/en-us/learn/certifications/exams/az-900)
 * [AZ-204: Developing Solutions for Microsoft Azure CPD](https://docs.microsoft.com/en-us/learn/certifications/exams/az-204)
 
