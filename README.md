@@ -8,9 +8,11 @@
 
 ## **Project tehnology** 
 <details> 
+  
 1. DDD
 2. CQRS
 3. MediatR
+  
 </details>
 
 ## **Microservice Design Patterns and Principles** 
