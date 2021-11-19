@@ -1,6 +1,9 @@
 # CPD goals
 
+## **Testing** 
 
+<details> 
+1. The art of unit testing (Second edition)
 
 ## **Microservice Design Patterns and Principles** 
 
