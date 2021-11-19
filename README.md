@@ -1,11 +1,17 @@
 # CPD goals
-
+(a 2-a sapt din sprint)
 ## **Testing** 
 
 <details> 
 1. The art of unit testing (Second edition)
 </details>
 
+## **Project tehnology** 
+<details> 
+1. DDD
+2. CQRS
+3. MediatR
+</details>
 
 ## **Microservice Design Patterns and Principles** 
 
