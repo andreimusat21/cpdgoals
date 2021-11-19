@@ -12,6 +12,7 @@
 1. DDD
 2. CQRS
 3. MediatR
+4. Azure Functions
   
 </details>
 
