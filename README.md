@@ -10,9 +10,11 @@
 <details> 
   
 1. DDD
-2. CQRS
-3. MediatR
-4. Azure Functions (S.VII)
+2. CQRS & MediatR
+  https://cognizant.udemy.com/course/aspnet-core-solid-and-clean-architecture-net-5-and-up/learn/lecture/27189666?start=0#overview
+3. Azure Functions (S.VII)
+4. Domain events 
+  https://www.udemy.com/course/microservices-architecture-and-implementation-on-dotnet/
   
 </details>
 
