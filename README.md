@@ -10,6 +10,7 @@
 <details> 
   
 1. DDD
+   Domain Driven Design Fundamentals https://app.pluralsight.com/course-player?clipId=0eabac69-dcbc-4dd4-8728-9c6c2266ad80
 2. CQRS & MediatR
   https://cognizant.udemy.com/course/aspnet-core-solid-and-clean-architecture-net-5-and-up/learn/lecture/27189666?start=0#overview
 3. Azure Functions (S.VII)
